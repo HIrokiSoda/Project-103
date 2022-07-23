@@ -1,0 +1,15 @@
+body{
+    background-color: aqua;
+    color: green;
+}
+.heading{
+    width:80%;
+    font-size: 40px;
+}
+#camera{
+    border-width: 3px;
+    border-style: groove;
+    border-color: black;
+    width:450px;
+    height: 300px;
+}
